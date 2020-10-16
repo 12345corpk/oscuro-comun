@@ -1,1 +1,2 @@
 # oscuro-comun
+Gamemaster.js
